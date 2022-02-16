@@ -1,11 +1,18 @@
 # Shodan-Browser :male_detective:
 Python script to search queries on Shodan. It gives a detailed inform of each result in the search, including vulnerabilities and exploits.
-## Example
->IP: 37.58.167.59   
+
+## Files
+- **main.py**  
+Script which uses the Shodan API for search and obtain an inform from a query.
+- **shodan-results.txt**  
+Example results obtained by the script.
+
+## Output example
+>IP: 37.58.X.X   
 >Producto: Jetty/3.1.8 (Windows 2000 5.0 x86)  
->Sistema Operativo: None  
+>Sistema Operativo: Windows  
 >Organizacion: ADISTA SAS  
->Ubicacion: Vesoul, 6.14251/47.62604, France  
+>Ubicacion: Vesoul, France (6.14251º/47.62604º)  
 >Puertos abiertos: 443  
 >Vulnerabilidades: 
 >  - CVE-2005-3747
@@ -16,4 +23,4 @@ Python script to search queries on Shodan. It gives a detailed inform of each re
 >  - CVE-2015-4000
 
 ### Disclaimer:
-**The usage of this script is only for academic purposes**.
+**The usage of this script it's only for academic purposes**.
