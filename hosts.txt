@@ -1,0 +1,658 @@
+IP: 37.58.167.59
+Producto: Jetty/3.1.8 (Windows 2000 5.0 x86)
+Sistema Operativo: None
+Organizacion: ADISTA SAS
+Ubicacion: Vesoul, 6.14251/47.62604, France
+Puertos abiertos: 443
+Vulnerabilidades: 
+  - CVE-2005-3747
+  - CVE-2009-1524
+  - CVE-2009-1523
+  - CVE-2011-4461
+  - CVE-2015-0204
+  - CVE-2015-4000
+
+IP: 217.252.191.13
+Producto: Jetty/3.1.8 (Windows 2000 5.0 x86)
+Sistema Operativo: None
+Organizacion: Deutsche Telekom AG
+Ubicacion: Wismar, 11.45286/53.89314, Germany
+Puertos abiertos: 80
+Vulnerabilidades: 
+  - CVE-2009-1524
+  - CVE-2011-4461
+  - CVE-2009-1523
+  - CVE-2005-3747
+
+IP: 212.27.4.43
+Producto: Jetty/3.1.8 (Windows 2000 5.0 x86)
+Sistema Operativo: None
+Organizacion: Hi3G Access AB
+Ubicacion: Copenhagen, 12.56553/55.67594, Denmark
+Puertos abiertos: 80
+Vulnerabilidades: 
+  - CVE-2009-1524
+  - CVE-2011-4461
+  - CVE-2009-1523
+  - CVE-2005-3747
+
+IP: 31.135.160.90
+Producto: Jetty/3.1.8 (Windows 2000 5.0 x86)
+Sistema Operativo: None
+Organizacion: None
+Ubicacion: Warsaw, 21.01178/52.22977, Poland
+Puertos abiertos: 443
+Vulnerabilidades: 
+  - CVE-2005-3747
+  - CVE-2009-1524
+  - CVE-2009-1523
+  - CVE-2011-4461
+  - CVE-2015-0204
+  - CVE-2015-4000
+
+IP: 37.81.183.209
+Producto: Jetty/3.1.8 (Windows 2000 5.0 x86)
+Sistema Operativo: None
+Organizacion: Telekom Deutschland GmbH
+Ubicacion: Kremmen, 13.02515/52.76216, Germany
+Puertos abiertos: 443
+Vulnerabilidades: 
+  - CVE-2005-3747
+  - CVE-2009-1524
+  - CVE-2009-1523
+  - CVE-2011-4461
+  - CVE-2015-0204
+  - CVE-2015-4000
+
+IP: 83.166.8.44
+Producto: Jetty/3.1.8 (Windows 2000 5.0 x86)
+Sistema Operativo: None
+Organizacion: Harnosand Energi & Miljo AB
+Ubicacion: Sundsvall, 17.3063/62.39129, Sweden
+Puertos abiertos: 80
+Vulnerabilidades: 
+  - CVE-2009-1524
+  - CVE-2011-4461
+  - CVE-2009-1523
+  - CVE-2005-3747
+
+IP: 212.27.26.217
+Producto: Jetty/3.1.8 (Windows 2000 5.0 x86)
+Sistema Operativo: None
+Organizacion: Hi3G Access AB
+Ubicacion: Stavtrup, 10.11987/56.13124, Denmark
+Puertos abiertos: 81
+Vulnerabilidades: 
+  - CVE-2009-1524
+  - CVE-2011-4461
+  - CVE-2009-1523
+  - CVE-2005-3747
+
+IP: 217.252.47.216
+Producto: Jetty/3.1.8 (Windows 2000 5.0 x86)
+Sistema Operativo: None
+Organizacion: Deutsche Telekom AG
+Ubicacion: Stadthagen, 9.20311/52.32333, Germany
+Puertos abiertos: 80
+Vulnerabilidades: 
+  - CVE-2009-1524
+  - CVE-2011-4461
+  - CVE-2009-1523
+  - CVE-2005-3747
+
+IP: 212.27.9.83
+Producto: Jetty/3.1.8 (Windows 2000 5.0 x86)
+Sistema Operativo: None
+Organizacion: Hi3G Access AB
+Ubicacion: Holbæk, 11.71279/55.7175, Denmark
+Puertos abiertos: 80
+Vulnerabilidades: 
+  - CVE-2009-1524
+  - CVE-2011-4461
+  - CVE-2009-1523
+  - CVE-2005-3747
+
+IP: 95.210.32.130
+Producto: Jetty/3.1.8 (Windows 2000 5.0 x86)
+Sistema Operativo: None
+Organizacion: BROADBAND SERVICES WITH KA-SAT SATELLITES
+Ubicacion: Hartenstein, 12.66966/50.66236, Germany
+Puertos abiertos: 80
+Vulnerabilidades: 
+  - CVE-2009-1524
+  - CVE-2011-4461
+  - CVE-2009-1523
+  - CVE-2005-3747
+
+IP: 82.152.101.108
+Producto: Jetty/3.1.8 (Windows 2000 5.0 x86)
+Sistema Operativo: None
+Organizacion: Spectrum Interactive
+Ubicacion: Ripley, -1.4/53.03333, United Kingdom
+Puertos abiertos: 80
+Vulnerabilidades: 
+  - CVE-2009-1524
+  - CVE-2011-4461
+  - CVE-2009-1523
+  - CVE-2005-3747
+
+IP: 62.212.138.71
+Producto: Jetty/3.1.8 (Windows 2000 5.0 x86)
+Sistema Operativo: None
+Organizacion: Enreach Netherlands B.V.
+Ubicacion: Zevenaar, 6.07083/51.93, Netherlands
+Puertos abiertos: 443
+Vulnerabilidades: 
+  - CVE-2005-3747
+  - CVE-2009-1524
+  - CVE-2009-1523
+  - CVE-2011-4461
+  - CVE-2015-0204
+  - CVE-2015-4000
+
+IP: 79.28.180.154
+Producto: Jetty/3.1.8 (Windows 2000 5.0 x86)
+Sistema Operativo: None
+Organizacion: Telecom Italia S.p.A.
+Ubicacion: Asti, 8.20751/44.90162, Italy
+Puertos abiertos: 80
+Vulnerabilidades: 
+  - CVE-2009-1524
+  - CVE-2011-4461
+  - CVE-2009-1523
+  - CVE-2005-3747
+
+IP: 46.16.221.146
+Producto: Jetty/3.1.8 (Windows 2000 5.0 x86)
+Sistema Operativo: None
+Organizacion: Wireless Logic mdex GmbH
+Ubicacion: Echzell, 8.88605/50.38888, Germany
+Puertos abiertos: 80
+Vulnerabilidades: 
+  - CVE-2009-1524
+  - CVE-2011-4461
+  - CVE-2009-1523
+  - CVE-2005-3747
+
+IP: 79.143.204.15
+Producto: Jetty/3.1.8 (Windows 2000 5.0 x86)
+Sistema Operativo: None
+Organizacion: Js Whizzy Internet Limited
+Ubicacion: Dublin, -6.24889/53.33306, Ireland
+Puertos abiertos: 8001
+Vulnerabilidades: 
+  - CVE-2009-1524
+  - CVE-2011-4461
+  - CVE-2009-1523
+  - CVE-2005-3747
+
+IP: 62.212.138.75
+Producto: Jetty/3.1.8 (Windows 2000 5.0 x86)
+Sistema Operativo: None
+Organizacion: Enreach Netherlands B.V.
+Ubicacion: Amsterdam, 4.88969/52.37403, Netherlands
+Puertos abiertos: 80
+Vulnerabilidades: 
+  - CVE-2009-1524
+  - CVE-2011-4461
+  - CVE-2009-1523
+  - CVE-2005-3747
+
+IP: 178.183.1.66
+Producto: Jetty/3.1.8 (Windows 2000 5.0 x86)
+Sistema Operativo: None
+Organizacion: T-Mobile Polska S.A.
+Ubicacion: Mokotów, 21.03487/52.1934, Poland
+Puertos abiertos: 80
+Vulnerabilidades: 
+  - CVE-2009-1524
+  - CVE-2011-4461
+  - CVE-2009-1523
+  - CVE-2005-3747
+
+IP: 212.27.8.180
+Producto: Jetty/3.1.8 (Windows 2000 5.0 x86)
+Sistema Operativo: None
+Organizacion: Hi3G Access AB
+Ubicacion: Stockholm, 18.06871/59.32938, Sweden
+Puertos abiertos: 80
+Vulnerabilidades: 
+  - CVE-2009-1524
+  - CVE-2011-4461
+  - CVE-2009-1523
+  - CVE-2005-3747
+
+IP: 62.212.138.75
+Producto: Jetty/3.1.8 (Windows 2000 5.0 x86)
+Sistema Operativo: None
+Organizacion: Enreach Netherlands B.V.
+Ubicacion: Amsterdam, 4.88969/52.37403, Netherlands
+Puertos abiertos: 443
+Vulnerabilidades: 
+  - CVE-2005-3747
+  - CVE-2009-1524
+  - CVE-2009-1523
+  - CVE-2011-4461
+  - CVE-2015-0204
+  - CVE-2015-4000
+
+IP: 83.166.8.44
+Producto: Jetty/3.1.8 (Windows 2000 5.0 x86)
+Sistema Operativo: None
+Organizacion: Harnosand Energi & Miljo AB
+Ubicacion: Sundsvall, 17.3063/62.39129, Sweden
+Puertos abiertos: 443
+Vulnerabilidades: 
+  - CVE-2005-3747
+  - CVE-2009-1524
+  - CVE-2009-1523
+  - CVE-2011-4461
+  - CVE-2015-0204
+  - CVE-2015-4000
+
+IP: 37.85.136.44
+Producto: Jetty/3.1.8 (Windows 2000 5.0 x86)
+Sistema Operativo: None
+Organizacion: Telekom Deutschland GmbH
+Ubicacion: Heimbach, 6.46896/50.63693, Germany
+Puertos abiertos: 443
+Vulnerabilidades: 
+  - CVE-2005-3747
+  - CVE-2009-1524
+  - CVE-2009-1523
+  - CVE-2011-4461
+  - CVE-2015-0204
+  - CVE-2015-4000
+
+IP: 87.251.232.231
+Producto: Jetty/3.1.8 (Windows 2000 5.0 x86)
+Sistema Operativo: None
+Organizacion: Polkomtel sp. z o.o.
+Ubicacion: Konin, 18.25121/52.22338, Poland
+Puertos abiertos: 443
+Vulnerabilidades: 
+  - CVE-2005-3747
+  - CVE-2009-1524
+  - CVE-2009-1523
+  - CVE-2011-4461
+  - CVE-2015-0204
+  - CVE-2015-4000
+
+IP: 89.121.207.126
+Producto: Jetty/3.1.8 (Windows 2000 5.0 x86)
+Sistema Operativo: None
+Organizacion: Romtelecom Data Network
+Ubicacion: Buzău, 26.83333/45.15, Romania
+Puertos abiertos: 80
+Vulnerabilidades: 
+  - CVE-2009-1524
+  - CVE-2011-4461
+  - CVE-2009-1523
+  - CVE-2005-3747
+
+IP: 217.252.191.38
+Producto: Jetty/3.1.8 (Windows 2000 5.0 x86)
+Sistema Operativo: None
+Organizacion: Deutsche Telekom AG
+Ubicacion: Wismar, 11.45286/53.89314, Germany
+Puertos abiertos: 80
+Vulnerabilidades: 
+  - CVE-2009-1524
+  - CVE-2011-4461
+  - CVE-2009-1523
+  - CVE-2005-3747
+
+IP: 95.209.148.176
+Producto: Jetty/3.1.8 (Windows 2000 5.0 x86)
+Sistema Operativo: None
+Organizacion: Hi3G Access AB
+Ubicacion: Copenhagen, 12.56553/55.67594, Denmark
+Puertos abiertos: 80
+Vulnerabilidades: 
+  - CVE-2009-1524
+  - CVE-2011-4461
+  - CVE-2009-1523
+  - CVE-2005-3747
+
+IP: 217.128.37.29
+Producto: Jetty/3.1.8 (Windows 2000 5.0 x86)
+Sistema Operativo: None
+Organizacion: Orange S.A.
+Ubicacion: Melesse, -1.69721/48.21762, France
+Puertos abiertos: 443
+Vulnerabilidades: 
+  - CVE-2005-3747
+  - CVE-2009-1524
+  - CVE-2009-1523
+  - CVE-2011-4461
+  - CVE-2015-0204
+  - CVE-2015-4000
+
+IP: 37.84.200.215
+Producto: Jetty/3.1.8 (Windows 2000 5.0 x86)
+Sistema Operativo: None
+Organizacion: Telekom Deutschland GmbH
+Ubicacion: Schwalmstadt, 9.21667/50.93333, Germany
+Puertos abiertos: 80
+Vulnerabilidades: 
+  - CVE-2009-1524
+  - CVE-2011-4461
+  - CVE-2009-1523
+  - CVE-2005-3747
+
+IP: 62.212.138.71
+Producto: Jetty/3.1.8 (Windows 2000 5.0 x86)
+Sistema Operativo: None
+Organizacion: Enreach Netherlands B.V.
+Ubicacion: Zevenaar, 6.07083/51.93, Netherlands
+Puertos abiertos: 80
+Vulnerabilidades: 
+  - CVE-2009-1524
+  - CVE-2011-4461
+  - CVE-2009-1523
+  - CVE-2005-3747
+
+IP: 80.251.196.111
+Producto: Jetty/3.1.8 (Windows 2000 5.0 x86)
+Sistema Operativo: None
+Organizacion: Hi3G Access AB
+Ubicacion: Stege, 12.28461/54.98704, Denmark
+Puertos abiertos: 80
+Vulnerabilidades: 
+  - CVE-2009-1524
+  - CVE-2011-4461
+  - CVE-2009-1523
+  - CVE-2005-3747
+
+IP: 217.252.38.60
+Producto: Jetty/3.1.8 (Windows 2000 5.0 x86)
+Sistema Operativo: None
+Organizacion: Deutsche Telekom AG
+Ubicacion: Stadthagen, 9.20311/52.32333, Germany
+Puertos abiertos: 80
+Vulnerabilidades: 
+  - CVE-2009-1524
+  - CVE-2011-4461
+  - CVE-2009-1523
+  - CVE-2005-3747
+
+IP: 37.10.171.78
+Producto: Jetty/3.1.8 (Windows 2000 5.0 x86)
+Sistema Operativo: None
+Organizacion: TELEFONICA DE ESPANA
+Ubicacion: Toro, -5.39534/41.52417, Spain
+Puertos abiertos: 444
+Vulnerabilidades: 
+  - CVE-2015-0204
+  - CVE-2015-4000
+
+IP: 37.58.167.59
+Producto: Jetty/3.1.8 (Windows 2000 5.0 x86)
+Sistema Operativo: None
+Organizacion: ADISTA SAS
+Ubicacion: Vesoul, 6.14251/47.62604, France
+Puertos abiertos: 80
+Vulnerabilidades: 
+  - CVE-2009-1524
+  - CVE-2011-4461
+  - CVE-2009-1523
+  - CVE-2005-3747
+
+IP: 95.209.149.178
+Producto: Jetty/3.1.8 (Windows 2000 5.0 x86)
+Sistema Operativo: None
+Organizacion: Hi3G Access AB
+Ubicacion: Lillerød, 12.34579/55.87496, Denmark
+Puertos abiertos: 80
+Vulnerabilidades: 
+  - CVE-2009-1524
+  - CVE-2011-4461
+  - CVE-2009-1523
+  - CVE-2005-3747
+
+IP: 31.135.160.90
+Producto: Jetty/3.1.8 (Windows 2000 5.0 x86)
+Sistema Operativo: None
+Organizacion: None
+Ubicacion: Warsaw, 21.01178/52.22977, Poland
+Puertos abiertos: 80
+Vulnerabilidades: 
+  - CVE-2009-1524
+  - CVE-2011-4461
+  - CVE-2009-1523
+  - CVE-2005-3747
+
+IP: 95.209.151.6
+Producto: Jetty/3.1.8 (Windows 2000 5.0 x86)
+Sistema Operativo: None
+Organizacion: Hi3G Access AB
+Ubicacion: Copenhagen, 12.56553/55.67594, Denmark
+Puertos abiertos: 443
+Vulnerabilidades: 
+  - CVE-2005-3747
+  - CVE-2009-1524
+  - CVE-2009-1523
+  - CVE-2011-4461
+  - CVE-2015-0204
+  - CVE-2015-4000
+
+IP: 80.251.196.111
+Producto: Jetty/3.1.8 (Windows 2000 5.0 x86)
+Sistema Operativo: None
+Organizacion: Hi3G Access AB
+Ubicacion: Stege, 12.28461/54.98704, Denmark
+Puertos abiertos: 443
+Vulnerabilidades: 
+  - CVE-2005-3747
+  - CVE-2009-1524
+  - CVE-2009-1523
+  - CVE-2011-4461
+  - CVE-2015-0204
+  - CVE-2015-4000
+
+IP: 37.85.60.184
+Producto: Jetty/3.1.8 (Windows 2000 5.0 x86)
+Sistema Operativo: None
+Organizacion: Telekom Deutschland GmbH
+Ubicacion: Marl, 7.09038/51.65671, Germany
+Puertos abiertos: 80
+Vulnerabilidades: 
+  - CVE-2009-1524
+  - CVE-2011-4461
+  - CVE-2009-1523
+  - CVE-2005-3747
+
+IP: 93.227.36.138
+Producto: Jetty/3.1.8 (Windows 2000 5.0 x86)
+Sistema Operativo: None
+Organizacion: Deutsche Telekom AG
+Ubicacion: Wismar, 11.45286/53.89314, Germany
+Puertos abiertos: 443
+Vulnerabilidades: 
+  - CVE-2005-3747
+  - CVE-2009-1524
+  - CVE-2009-1523
+  - CVE-2011-4461
+  - CVE-2015-0204
+  - CVE-2015-4000
+
+IP: 217.128.37.29
+Producto: Jetty/3.1.8 (Windows 2000 5.0 x86)
+Sistema Operativo: None
+Organizacion: Orange S.A.
+Ubicacion: Melesse, -1.69721/48.21762, France
+Puertos abiertos: 80
+Vulnerabilidades: 
+  - CVE-2009-1524
+  - CVE-2011-4461
+  - CVE-2009-1523
+  - CVE-2005-3747
+
+IP: 217.252.191.11
+Producto: Jetty/3.1.8 (Windows 2000 5.0 x86)
+Sistema Operativo: None
+Organizacion: Deutsche Telekom AG
+Ubicacion: Wismar, 11.45286/53.89314, Germany
+Puertos abiertos: 80
+Vulnerabilidades: 
+  - CVE-2009-1524
+  - CVE-2011-4461
+  - CVE-2009-1523
+  - CVE-2005-3747
+
+IP: 178.183.1.66
+Producto: Jetty/3.1.8 (Windows 2000 5.0 x86)
+Sistema Operativo: None
+Organizacion: T-Mobile Polska S.A.
+Ubicacion: Mokotów, 21.03487/52.1934, Poland
+Puertos abiertos: 443
+Vulnerabilidades: 
+  - CVE-2005-3747
+  - CVE-2009-1524
+  - CVE-2009-1523
+  - CVE-2011-4461
+  - CVE-2015-0204
+  - CVE-2015-4000
+
+IP: 87.251.232.231
+Producto: Jetty/3.1.8 (Windows 2000 5.0 x86)
+Sistema Operativo: None
+Organizacion: Polkomtel sp. z o.o.
+Ubicacion: Konin, 18.25121/52.22338, Poland
+Puertos abiertos: 80
+Vulnerabilidades: 
+  - CVE-2009-1524
+  - CVE-2011-4461
+  - CVE-2009-1523
+  - CVE-2005-3747
+
+IP: 95.209.151.6
+Producto: Jetty/3.1.8 (Windows 2000 5.0 x86)
+Sistema Operativo: None
+Organizacion: Hi3G Access AB
+Ubicacion: Copenhagen, 12.56553/55.67594, Denmark
+Puertos abiertos: 80
+Vulnerabilidades: 
+  - CVE-2009-1524
+  - CVE-2011-4461
+  - CVE-2009-1523
+  - CVE-2005-3747
+
+IP: 84.254.165.183
+Producto: Jetty/3.1.8 (Windows 2000 5.0 x86)
+Sistema Operativo: None
+Organizacion: BROADBAND SERVICES WITH KA-SAT SATELLITES
+Ubicacion: Totnes, -3.6843/50.43107, United Kingdom
+Puertos abiertos: 80
+Vulnerabilidades: 
+  - CVE-2009-1524
+  - CVE-2011-4461
+  - CVE-2009-1523
+  - CVE-2005-3747
+
+IP: 212.27.8.180
+Producto: Jetty/3.1.8 (Windows 2000 5.0 x86)
+Sistema Operativo: None
+Organizacion: Hi3G Access AB
+Ubicacion: Stockholm, 18.06871/59.32938, Sweden
+Puertos abiertos: 443
+Vulnerabilidades: 
+  - CVE-2005-3747
+  - CVE-2009-1524
+  - CVE-2009-1523
+  - CVE-2011-4461
+  - CVE-2015-0204
+  - CVE-2015-4000
+
+IP: 37.85.250.114
+Producto: Jetty/3.1.8 (Windows 2000 5.0 x86)
+Sistema Operativo: None
+Organizacion: Telekom Deutschland GmbH
+Ubicacion: Frankfurt am Main, 8.68417/50.11552, Germany
+Puertos abiertos: 443
+Vulnerabilidades: 
+  - CVE-2005-3747
+  - CVE-2009-1524
+  - CVE-2009-1523
+  - CVE-2011-4461
+  - CVE-2015-0204
+  - CVE-2015-4000
+
+IP: 79.28.180.154
+Producto: Jetty/3.1.8 (Windows 2000 5.0 x86)
+Sistema Operativo: None
+Organizacion: Telecom Italia S.p.A.
+Ubicacion: Asti, 8.20751/44.90162, Italy
+Puertos abiertos: 443
+Vulnerabilidades: 
+  - CVE-2005-3747
+  - CVE-2009-1524
+  - CVE-2009-1523
+  - CVE-2011-4461
+  - CVE-2015-0204
+  - CVE-2015-4000
+
+IP: 95.209.149.178
+Producto: Jetty/3.1.8 (Windows 2000 5.0 x86)
+Sistema Operativo: None
+Organizacion: Hi3G Access AB
+Ubicacion: Lillerød, 12.34579/55.87496, Denmark
+Puertos abiertos: 443
+Vulnerabilidades: 
+  - CVE-2005-3747
+  - CVE-2009-1524
+  - CVE-2009-1523
+  - CVE-2011-4461
+  - CVE-2015-0204
+  - CVE-2015-4000
+
+IP: 37.82.78.184
+Producto: Jetty/3.1.8 (Windows 2000 5.0 x86)
+Sistema Operativo: None
+Organizacion: Telekom Deutschland GmbH
+Ubicacion: Garbsen, 9.5899/52.41371, Germany
+Puertos abiertos: 80
+Vulnerabilidades: 
+  - CVE-2009-1524
+  - CVE-2011-4461
+  - CVE-2009-1523
+  - CVE-2005-3747
+
+IP: 37.84.204.43
+Producto: Jetty/3.1.8 (Windows 2000 5.0 x86)
+Sistema Operativo: None
+Organizacion: Telekom Deutschland GmbH
+Ubicacion: Riedstadt, 8.49621/49.83411, Germany
+Puertos abiertos: 80
+Vulnerabilidades: 
+  - CVE-2009-1524
+  - CVE-2011-4461
+  - CVE-2009-1523
+  - CVE-2005-3747
+
+IP: 79.195.22.22
+Producto: Jetty/3.1.8 (Windows 2000 5.0 x86)
+Sistema Operativo: None
+Organizacion: Deutsche Telekom AG
+Ubicacion: Stadthagen, 9.20311/52.32333, Germany
+Puertos abiertos: 80
+Vulnerabilidades: 
+  - CVE-2009-1524
+  - CVE-2011-4461
+  - CVE-2009-1523
+  - CVE-2005-3747
+
+IP: 37.85.153.207
+Producto: Jetty/3.1.8 (Windows 2000 5.0 x86)
+Sistema Operativo: None
+Organizacion: Telekom Deutschland GmbH
+Ubicacion: Mannheim, 8.46694/49.4891, Germany
+Puertos abiertos: 443
+Vulnerabilidades: 
+  - CVE-2005-3747
+  - CVE-2009-1524
+  - CVE-2009-1523
+  - CVE-2011-4461
+  - CVE-2015-0204
+  - CVE-2015-4000
+
