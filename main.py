@@ -5,9 +5,9 @@ import threading
 import optparse
 import time
 
-API_KEY = "Sf3SybfG9CTYRqOSrHcX97q6QYKX5334"
+API_KEY = "YOUR SHODAN KEY"
 api = shodan.Shodan(API_KEY)
-filepath = "/home/javier/Escritorio/MUNICS/SIND/Shodan-P1/query-"
+filepath = "FILEPATH"
 # Example queries
 query1 = "Server: SQ-WEBCAM"
 query2 = 'http.title:"Nordex Control" "Windows 2000 5.0 x86" "Jetty/3.1 (JSP 1.1; Servlet 2.2; java 1.6.0_14)"'
@@ -55,7 +55,7 @@ def shodan_search(query, filepath):
                     if vuln_index != 3:
                         exploits_api_url = "https://exploits.shodan.io/api/search?query={query}&key={api_key}"
                         exploit_query = exploits_api_url.format(query=vuln,
-                                                                api_key='Sf3SybfG9CTYRqOSrHcX97q6QYKX5334')
+                                                                api_key=API_KEY)
                         response = requests.get(exploit_query)
                         try:
                             response_json = response.json()
