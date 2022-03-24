@@ -20,20 +20,6 @@ parser.add_option("-q", "--query", dest="query", help="Search a defined query", 
 options, args = parser.parse_args()
 
 
-def search_exploit(query):
-    toret = "No exploits found."
-    exploits_api_url = "https://exploits.shodan.io/api/search?query={query}&key={api_key}"
-    exploit_query = exploits_api_url.format(query=query, api_key=API_KEY)
-    response = requests.get(exploit_query).json()
-    print('ID: ' + query)
-    for match in response['matches']:
-        if match:
-            print('\nExploit: ' + match['description'])
-            print('Author: ' + match['author'])
-            print('Port: ' + str(match['port']))
-            print('Source: ' + match['source'])
-
-
 def shodan_search(query, filepath):
     try:
         results = api.search(query)
@@ -47,7 +33,8 @@ def shodan_search(query, filepath):
             f.write("\nOS: " + str(result['os']))
             f.write("\nOrganization: " + str(result['org']))
             f.write("\nUbication: " + result['location']['city'] + ", " + str(result['location']['longitude']) + "/" + str(result['location']['latitude']) + ", " + result['location']['country_name'])
-            f.write("\nOpen ports: " + str(result['port']))
+            ports = api.host(result['ip_str'])
+            f.write("\nOpen ports: " + str(ports))
             f.write("\nVulnerabilities: ")
             try:
                 for vuln in result['vulns']:
@@ -67,11 +54,11 @@ def shodan_search(query, filepath):
                             print('No exploits found for device ' + result['ip_str'] + "(" + vuln + ")")
 
                     vuln_index = vuln_index + 1
+                    time.sleep(1)
             except KeyError:
                 pass
 
             f.write("\n\n")
-            time.sleep(1)
         f.close()
         print("Search finished for query: " + query)
 
